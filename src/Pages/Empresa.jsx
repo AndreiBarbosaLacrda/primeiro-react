@@ -1,5 +1,5 @@
 import Container from "../components/Container";
-import SecaoTexto from "../components/SeçãoTexto";
+import SecaoTexto from "../components/SecaoTexto"
 
 function    Empresa(){
 return(

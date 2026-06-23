@@ -1,4 +1,4 @@
-import CardFoto from './CardFoto.jsx'
+import CardFoto from './Card.Foto.jsx'
 
 function Galeria() {
   // Cada objeto do array representa um card que aparecerá na tela.
